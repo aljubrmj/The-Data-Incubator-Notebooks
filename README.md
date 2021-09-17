@@ -19,7 +19,7 @@
 <p align="center">
 
   <h3 align="center">Exercise and Projects Done for The Data Incubator</h3>
-This is part of my summer fellowship at The Data Incubator Fellowship.
+This is part of my summer fellowship at The Data Incubator Fellowship. The program also involved other specialized projects which are not included here for confidentiality reasons.
   <p align="center">
     <br />
     <a href="https://github.com/aljubrmj/The-Data-Incubator-Notebooks"><strong>Explore the docs »</strong></a>
