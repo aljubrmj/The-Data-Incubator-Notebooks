@@ -32,13 +32,6 @@ This is part of my summer fellowship at The Data Incubator Fellowship. The progr
 </p>
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
